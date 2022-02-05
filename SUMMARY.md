@@ -11,6 +11,7 @@
 
 ## Contributing
 
+* [Start Here](contributing/start-here.md)
 * [Ongoing Efforts](contributing/ongoing-efforts.md)
 * [Roles](contributing/roles/README.md)
   * [Development](contributing/roles/development.md)
