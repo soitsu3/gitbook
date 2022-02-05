@@ -8,8 +8,8 @@ description: Join us in discord for live Hyperscale calls!
 
 |                   | Date                                             |
 | ----------------- | ------------------------------------------------ |
-| Office Hours #1   | [February 5, 2022](https://calendar.google.com)  |
-| Pitch Night #1    | [February 6, 2022](https://calendar.google.com)  |
+| Pitch Night #1    | [February 5, 2022](https://calendar.google.com)  |
+| Office Hours #1   | [February 6, 2022](https://calendar.google.com)  |
 | Community Call #2 | [February 9, 2022](https://calendar.google.com)  |
 | Community Call #3 | [February 16, 2022](https://calendar.google.com) |
 
