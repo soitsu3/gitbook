@@ -19,7 +19,7 @@ Receive up to $1M by filling out a simple application. You’ll receive a decisi
 
 ### Can I apply more than once?
 
-Yes, we encourage you to apply again if you were rejected in the past. We value founders who move fast, so please tell us your progress since your last application.
+Yes, we encourage you to apply again if you were rejected in the past. We value founders who move fast, so please show us your progress since your last application.
 
 #### [Re-apply here](https://airtable.com/shr7QJfoPUvbkZRcD)
 
