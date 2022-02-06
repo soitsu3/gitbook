@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 I'm just using the GitBook to type up these questions because I'm locked out of google docs right now. But it would be good to create a FAQ section in the docs, and I can polish up the questions and answers before this docs goes live.
+
+\-soitsu
 {% endhint %}
 
 ### **Ongoing Progress**
