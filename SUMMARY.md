@@ -8,6 +8,7 @@
 * [Tokenomics](hyperscale/tokenomics.md)
 * [Hackathons](hyperscale/hackathons.md)
 * [Investment Process](hyperscale/investment-process.md)
+* [FAQ](hyperscale/faq.md)
 
 ## Contributing
 
