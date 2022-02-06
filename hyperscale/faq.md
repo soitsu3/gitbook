@@ -60,3 +60,5 @@ The inital plan was $10M of Sam's money, it's now $1M. Why the change, and will 
 
 There are other private investors also investing, what percent is Sam vs other investors (approximately)?
 
+Are there any differences between Hyperscale and The DAO? Main one I can think of is community investment vs Sam/private investment.
+
